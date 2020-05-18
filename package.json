@@ -1,0 +1,20 @@
+{
+  "name": "frontlogs",
+  "version": "1.0.0",
+  "description": "一个简易版本的前端日志记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacklisten/frontlogs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blacklisten/frontlogs/issues"
+  },
+  "homepage": "https://github.com/blacklisten/frontlogs#readme"
+}
